@@ -103,7 +103,7 @@ function Burberry() {
 function Rich() {
     memberCall(
         "assets/rich_icon.PNG", 
-        "<a href='https://discord.gg/vjj9SCey' target='_blank' style='color: white;'>discord</a>, 
+        "<a href='https://discord.gg/vjj9SCey' target='_blank' style='color: white;'>discord",
         "Rich" 
     );
 }
