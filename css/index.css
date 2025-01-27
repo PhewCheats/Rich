@@ -178,7 +178,7 @@ body, html {
 
 
 
-.buttons-container button:hover[data-gif="1.gif"] {
+.buttons-container button:hover[data-gif="Rose.gif"] {
     color: rgba(255, 243, 81, 1);
 }
 
