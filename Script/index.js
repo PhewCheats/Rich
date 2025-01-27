@@ -94,7 +94,7 @@ function memberCall(pfpSrc, textContent, user) {
 
 function Burberry() {
     memberCall(
-        "assets/berry_icon.png",
+        "assets/gen_icon.png",
         "<a href='https://www.roblox.com/users/958031159/profile' target='_blank' style='color: white;'>Roblox",
         "Burberry"
     );
@@ -102,15 +102,15 @@ function Burberry() {
 
 function Rich() {
     memberCall(
-        "assets/rich_icon.PNG", 
-        "<a href='https://discord.gg/vjj9SCey' target='_blank' style='color: white;'>discord",
+        "assets/valexnt_icon.PNG", 
+        "<a href='https://discord.gg/vjj9SCey' target='_blank' style='color: white;'>discord", 
         "Rich" 
     );
 }
 
 function Jaguar() {
     memberCall(
-        "assets/lejon_icon.png",
+        "assets/mew_icon.png",
         "<a href='https://discord.com/users/1274705405322334250' target='_blank' style='color: white;'>Discord Profile</a>, <a href='https://t.me/f_mzq' target='_blank' style='color: white;'>telegram</a>",
         "Jaguar"
     );
