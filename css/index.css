@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Cascadia";
-    src: url('../asset/Cascadia.ttf') format('truetype');
+    src: url('../assets/Cascadia.ttf') format('truetype');
 }
 
 * {
@@ -178,7 +178,27 @@ body, html {
 
 
 
-.buttons-container button:hover[data-gif="Rose.gif"] {
+.buttons-container button:hover[data-gif="sui.gif"] {
+    color: rgba(255, 243, 81, 1);
+}
+
+
+.buttons-container button:hover[data-gif="leg.gif"] {
+    color: rgba(255, 243, 81, 1);
+}
+
+
+.buttons-container button:hover[data-gif="shiny.gif"] {
+    color: rgba(255, 243, 81, 1);
+}
+
+
+.buttons-container button:hover[data-gif="ray.gif"] {
+    color: rgba(255, 243, 81, 1);
+}
+
+
+.buttons-container button:hover[data-gif="mewtwo.gif"] {
     color: rgba(255, 243, 81, 1);
 }
 
